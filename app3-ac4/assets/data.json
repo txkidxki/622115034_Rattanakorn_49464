@@ -1,0 +1,20 @@
+[
+    {
+        "title": "What is anime?",
+        "subtitle": "a style of Japanese film and television animation, typically aimed at adults as well as children.",
+        "img_url": "https://cdn.pixabay.com/photo/2012/06/08/06/19/clouds-49520_960_720.jpg",
+        "detail": "Anime (Japanese: アニメ, IPA: [aɲime] (About this soundlisten)) is hand-drawn and computer animation originating from Japan. \n In Japan and in Japanese, anime (a term derived from the English word animation) describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan. \n Animation produced outside of Japan with similar style to Japanese animation is referred to as anime-influenced animation."
+    },
+    {
+        "title": "what to watch today?",
+        "subtitle": "My Neighbors the Yamadas, Spirited Away , The Cat Returns, Howl's Moving Castle",
+        "img_url": "https://cdn.pixabay.com/photo/2017/08/02/14/26/winter-landscape-2571788_960_720.jpg",
+        "detail": "Modern anime follows a typical animation production process, involving storyboarding, voice acting, character design, and cel production. \n Since the 1990s, animators have increasingly used computer animation to improve the efficiency of the production process. \n Early anime works were experimental, and consisted of images drawn on blackboards, stop motion animation of paper cutouts, and silhouette animation."
+    },
+    {
+        "title": "New anime this year",
+        "subtitle": "Earwig and the Witch",
+        "img_url": "https://cdn.pixabay.com/photo/2017/01/14/12/59/iceland-1979445_960_720.jpg",
+        "detail": "The Earwig and the Witch movie is based on British author Diana Wynne Jones' children's book of the same name, which had been published after the author's death. \n In a Japanese translation from Kaoruko Tanaka, Earwig's name is changed to Ayatsuru, a play on the word for influence, and is often called Aya. \n This is not the first time Studio Ghibli took an interest in Jones' books. Her fantasy novel, Howl's Moving Castle, was previously adapted into a 2004 film of the same name."
+    }
+]
